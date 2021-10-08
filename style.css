@@ -1,0 +1,15 @@
+.nav-link{
+    color: white!important;
+}
+
+.details-table{
+    border: 2px solid greenyellow;
+}
+
+ #about{
+     background-color: blue;
+     color: greenyellow;
+ }
+ #education{
+     background-color: greenyellow; 
+ }
